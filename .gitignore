@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+prod.sh
+query.sh
+ddns.log
+ddns.pid
