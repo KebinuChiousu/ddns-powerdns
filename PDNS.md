@@ -4,6 +4,9 @@ This simple scripts allows you to manage a [PowerDNS](https://www.powerdns.com/)
 
 This script is inspired by the [job](https://github.com/mrlesmithjr/python-powerdns-management) of [Larry Smith Jr.](http://everythingshouldbevirtual.com/).
 
+Author: [pbertera](https://github.com/pbertera)
+GitHub: [repo](https://github.com/pbertera/PowerDNS-CLI)
+
 Main changes to the original script:
     
 * removed all the CSV stuff
